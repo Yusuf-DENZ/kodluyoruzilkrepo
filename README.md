@@ -20,4 +20,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için,lütfen önce neyi d
 istediğinizi tartışmak için bir konu açınız.
 ## License
 [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
+
 ![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg
